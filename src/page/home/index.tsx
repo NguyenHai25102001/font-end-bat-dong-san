@@ -6,10 +6,6 @@ import makeAnimated from 'react-select/animated';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faAngleDown, faArrowRight, faArrowsRotate, faMagnifyingGlass} from '@fortawesome/free-solid-svg-icons';
 import {useState} from "react";
-import KindOfHouse from "../../components/KindOfHouse";
-import PriceHouse from "../../components/priceHouse";
-import AcreageHouse from "../../components/AcreageHouse";
-import FilterHouse from "../../components/FilterHouse";
 import ItemHouse from "../../components/ItemHouse";
 import ItemProjectHouse from "../../components/ItemProjectHouse";
 

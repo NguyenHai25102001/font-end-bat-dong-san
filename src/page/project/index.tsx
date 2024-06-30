@@ -7,7 +7,6 @@ import KindOfHouse from "../../components/KindOfHouse";
 import AcreageHouse from "../../components/AcreageHouse";
 import PriceHouse from "../../components/priceHouse";
 import FilterHouse from "../../components/FilterHouse";
-import ItemProduct from "../../components/ItemProduct";
 import ItemProject from "../../components/ItemProject";
 import Pagition from "../../components/Pagition";
 
